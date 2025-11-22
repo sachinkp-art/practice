@@ -1,0 +1,6 @@
+this is the simple java script
+  function greet(name) {
+    return "Hello, " + name + "!";
+}
+
+console.log(greet("Sachin"));
